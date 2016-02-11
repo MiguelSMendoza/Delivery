@@ -1,2 +1,2 @@
-# Hash
-Google Hash 2016 Qualification Round
+# Delivery
+Google Hash Code 2016 Online Qualification Round
